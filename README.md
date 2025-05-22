@@ -26,12 +26,13 @@ You can find information about movies, watch trailers, and get details about you
 - HTML  
 - CSS  
 - JavaScript  
-- (Add any other tools or frameworks you used, for example React, Vue, Bootstrap, etc.)
+- (Framework and Tools:Vue,Toastification,Firebase)
 
 ---
 
 ## How to Install and Run
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/filmLand.git
+First, download the project to your computer:
+
+```bash
+git clone https://github.com/imangali200/FilmLand_app.git
