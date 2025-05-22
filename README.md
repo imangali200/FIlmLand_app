@@ -43,6 +43,7 @@ cd FilmLand_app
 ```bash
 npm install
 ```
+Compile and Hot-Reload for Development
 ```bash
 npm run dev
 ```
