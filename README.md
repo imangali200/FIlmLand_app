@@ -36,8 +36,10 @@ First, download the project to your computer:
 
 ```bash
 git clone https://github.com/imangali200/FilmLand_app.git
-
+````
+```bash
 cd FilmLand_app
+```
 
 npm install
 
