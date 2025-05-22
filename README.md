@@ -40,23 +40,10 @@ git clone https://github.com/imangali200/FilmLand_app.git
 ```bash
 cd FilmLand_app
 ```
-
-npm install
-
-npm run dev
-
-npm run build
-
----
-
-### ✅ How to Add This to Your Project
-
-1. Go to your project folder
-2. Open the file `README.md` (or create it if it doesn't exist)
-3. Paste the content from the template above
-4. Save and push it to GitHub:
-
 ```bash
-git add README.md
-git commit -m "Add setup instructions to README"
-git push
+npm install
+```
+```bash
+npm run dev
+```
+---
