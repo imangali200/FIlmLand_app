@@ -15,7 +15,7 @@ You can find information about movies, watch trailers, and get details about you
 ---
 
 ## Screenshots
-![FilmLand Screenshot](https://github.com/imangali200/FilmLand_app/raw/main/img/IMA%20CINEMA%20LOGO.png)
+![FilmLand Screenshot](https://github.com/imangali200/FilmLand_app/assets/img/IMA%20CINEMA%20LOGO.png)
 
 
 
@@ -37,13 +37,15 @@ First, download the project to your computer:
 ```bash
 git clone https://github.com/imangali200/FilmLand_app.git
 ````
+## Find Folder
 ```bash
 cd FilmLand_app
 ```
+## Project Setup
 ```bash
 npm install
 ```
-Compile and Hot-Reload for Development
+## Compile and Hot-Reload for Development
 ```bash
 npm run dev
 ```
