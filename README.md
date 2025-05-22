@@ -16,7 +16,7 @@ You can find information about movies, watch trailers, and get details about you
 
 ## Screenshots
 
-![FilmLand Screenshot](https://your-image-link-here)
+![FilmLand Screenshot](https://github.com/imangali200/FilmLand/raw/main/img/IMA CINEMA LOGO.png)
 
 ---
 
