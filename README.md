@@ -5,20 +5,16 @@ You can find information about movies, watch trailers, and get details about you
 
 ---
 
+
+## Logo
+![FilmLand Screenshot](https://github.com/imangali200/FilmLand_app/raw/main/src/assets/IMA%20CINEMA%20LOGO.png)
+---
 ## Features
 
 - Search movies by name or genre  
 - Watch movie trailers  
 - Read movie descriptions and reviews  
 - Get movie release dates and ratings
-
----
-
-## Screenshots
-![FilmLand Screenshot](https://github.com/imangali200/FilmLand_app/raw/main/src/assets/IMA%20CINEMA%20LOGO.png)
-
-
-
 
 ---
 
