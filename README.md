@@ -6,7 +6,7 @@ You can find information about movies, watch trailers, and get details about you
 ---
 
 
-## FilmLand Screenshot
+## logo
 ![FilmLand Screenshot](https://github.com/imangali200/FilmLand_app/raw/main/src/assets/IMA%20CINEMA%20LOGO.png)
 ---
 ## Features
